@@ -1,2 +1,2 @@
 # fauram.github.io
-New Repository
+Trying to learn github
